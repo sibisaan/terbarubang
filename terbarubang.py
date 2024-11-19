@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 # Konstanta
 API_URL_LOGIN = "https://mtacc.mobilelegends.com/v2.1/inapp/login-new"
 API_URL_CHANGE_EMAIL = "https://mtacc.mobilelegends.com/v2.1/inapp/changebindemail"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7710828121:AAGdQmVhqQTFquxqwJ00BL_h_-vnWZ21ltw"
 user_data = {}
 
 # Fungsi Validasi
